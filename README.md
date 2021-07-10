@@ -148,7 +148,7 @@ Augmented Reality for the Oculus Rift DK1 </a></li>
  
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(81).pdf" style="text-decoration:none;">View-Based Maps</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(82).pdf" style="text-decoration:none;">Hare: a file system for non-cache-coherent multicores</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(82).pdf" style="text-decoration:none;">A deep learning-based algorithm for 2-D cell segmentation in microscopy images</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(83).pdf" style="text-decoration:none;">3D Pose Refinement from Reflections</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(84).pdf" style="text-decoration:none;">Point-and-Shoot for Ubiquitous Tagging on Mobile Phones</a></li>
@@ -249,8 +249,7 @@ Using Non-overlapping Extremal Regions</a></li>
    
    <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(132).pdf" style="text-decoration:none;">Closed-Form Solution to Non-Rigid 3D Surface Registration</a></li>   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(133).pdf" style="text-decoration:none;">Proceedings of FAST '03: 2nd USENIX Conference on
-File and Storage Technologies</a></li>     
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(133).pdf" style="text-decoration:none;">Deep Learning for Cancer Cell Detection and Segmentation: A Survey</a></li>     
    
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(134).pdf" style="text-decoration:none;">Combining Geometric and Appearance Priors for Robust Homography Estimation</a></li>
