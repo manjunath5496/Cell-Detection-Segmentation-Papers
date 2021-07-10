@@ -239,7 +239,7 @@ Using Non-overlapping Extremal Regions</a></li>
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(127).pdf" style="text-decoration:none;">Learning Separable Filters</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(128).pdf" style="text-decoration:none;">Accurate and Ecient Linear Structure Segmentation by Leveraging Ad Hoc Features with Learned Filters</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(128).pdf" style="text-decoration:none;">Accurate and Efficient Linear Structure Segmentation by Leveraging Ad Hoc Features with Learned Filters</a></li>   
    
    <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(129).pdf" style="text-decoration:none;">On Rendering Synthetic Images for Training an Object Detector</a></li>   
    
@@ -267,7 +267,7 @@ File and Storage Technologies</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(142).pdf" style="text-decoration:none;">Direct Prediction of 3D Body Poses from Motion Compensated Sequences</a></li>                             
  <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(143).pdf" style="text-decoration:none;">A Fast Local Descriptor for Dense Matching</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(144).pdf" style="text-decoration:none;">Boosting Binary Keypoint Descriptors</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(145).pdf" style="text-decoration:none;">Ecient Discriminative Projections for Compact Binary Descriptors</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(145).pdf" style="text-decoration:none;">Efficient Discriminative Projections for Compact Binary Descriptors</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(146).pdf" style="text-decoration:none;">Learning Image Descriptors with the Boosting-Trick</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(147).pdf" style="text-decoration:none;">Learning Image Descriptors with Boosting</a></li>
