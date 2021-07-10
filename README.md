@@ -225,87 +225,77 @@ Using Non-overlapping Extremal Regions</a></li>
   
    <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(120).pdf" style="text-decoration:none;">Augmenting Deformable Objects in Real-Time</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(121).pdf" style="text-decoration:none;">The Design, Implementation and Operation
-of an Email Pseudonym Server</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(121).pdf" style="text-decoration:none;">An all-in-one solution to geometric and photometric calibration</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(122).pdf" style="text-decoration:none;">Reinventing Scheduling for Multicore Systems </a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(122).pdf" style="text-decoration:none;">Retexturing in the Presence of Complex Illumination and Occlusions </a></li>  
      
-<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(123).pdf" style="text-decoration:none;">Building Secure High-Performance Web Services with OKWS</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(123).pdf" style="text-decoration:none;">ALCN: Adaptive Local Contrast Normalization for Robust Object Detection and 3D Pose Estimation</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(124).pdf" style="text-decoration:none;">Oort: User-Centric Cloud Storage with Global Queries</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(124).pdf" style="text-decoration:none;">3D Pose Estimation from Color Images without Manual Annotations</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(125).pdf" style="text-decoration:none;">Peer-to-Peer Communication Across Network Address Translators</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(125).pdf" style="text-decoration:none;">On the Relevance of Sparsity for Image Classification</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(126).pdf" style="text-decoration:none;">On the Feasibility of Peer-to-PeerWeb Indexing and Search</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(126).pdf" style="text-decoration:none;">Are Sparse Representations Really Relevant for Image Classification?</a></li> 
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(127).pdf" style="text-decoration:none;">Packrat Parsing:
-a Practical Linear-Time Algorithm with Backtracking</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(127).pdf" style="text-decoration:none;">Learning Separable Filters</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(128).pdf" style="text-decoration:none;">Packrat Parsing:
-Simple, Powerful, Lazy, Linear Time</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(128).pdf" style="text-decoration:none;">Accurate and Ecient Linear Structure Segmentation by Leveraging Ad Hoc Features with Learned Filters</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(129).pdf" style="text-decoration:none;">Parsing Expression Grammars:
-A Recognition-Based Syntactic Foundation</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(129).pdf" style="text-decoration:none;">On Rendering Synthetic Images for Training an Object Detector</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(130).pdf" style="text-decoration:none;">Pastwatch: a Distributed Version Control System </a></li>    
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(130).pdf" style="text-decoration:none;">Flying Objects Detection from a Single Moving Camera</a></li>    
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(131).pdf" style="text-decoration:none;">Easy Freshness with Pequod Cache Joins</a></li>   
+<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(131).pdf" style="text-decoration:none;">Deformable Surface Tracking Ambiguities</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(132).pdf" style="text-decoration:none;">Verifying concurrent, crash-safe systems with Perennial</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(132).pdf" style="text-decoration:none;">Closed-Form Solution to Non-Rigid 3D Surface Registration</a></li>   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(133).pdf" style="text-decoration:none;">Proceedings of FAST '03: 2nd USENIX Conference on
 File and Storage Technologies</a></li>     
    
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(134).pdf" style="text-decoration:none;">Providing Asynchronous File I/O
-for the Plan 9 Operating System</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(134).pdf" style="text-decoration:none;">Combining Geometric and Appearance Priors for Robust Homography Estimation</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(135).pdf" style="text-decoration:none;">Efficient patch-based auditing for web application vulnerabilities</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(135).pdf" style="text-decoration:none;">Multiscale Centerline Detection by Learning a Scale-Space Distance Transform</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(136).pdf" style="text-decoration:none;">Prolac: a language for protocol compilation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(137).pdf" style="text-decoration:none;">Flexible and Efficient Sharing of Protected Abstractions</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(138).pdf" style="text-decoration:none;">Retroactive Auditing</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(139).pdf" style="text-decoration:none;">RadixVM: Scalable address spaces for multithreaded applications</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(140).pdf" style="text-decoration:none;">RadixVM: Scalable address spaces for multithreaded applications (revised 2014-08-05)</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(136).pdf" style="text-decoration:none;">Projection onto the Manifold of Elongated Structures for Accurate Extraction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(137).pdf" style="text-decoration:none;">Learning Separable Filters</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(138).pdf" style="text-decoration:none;">General Constraints for Batch Multiple-Target Tracking Applied to Large-Scale Video microscopy</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(139).pdf" style="text-decoration:none;">Fast Ray Features for Learning Irregular Shapes</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(140).pdf" style="text-decoration:none;">Automated Age Estimation from Hand MRI Volumes using Deep Learning</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(141).pdf" style="text-decoration:none;"> Identifying information disclosure in web applications with retroactive auditing</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(142).pdf" style="text-decoration:none;">Optimizing RAM-latency Dominated Applications</a></li>                             
- <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(143).pdf" style="text-decoration:none;">ScaleFS: A Multicore-Scalable File System</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(144).pdf" style="text-decoration:none;">WhanauSIP: A Secure Peer-to-Peer
-Communications Platform</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(145).pdf" style="text-decoration:none;">Scalable Address Spaces Using RCU Balanced Trees</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(146).pdf" style="text-decoration:none;">Intrusion Recovery Using Selective Re-execution</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(141).pdf" style="text-decoration:none;"> Structured Prediction of 3D Human Pose with Deep Neural Networks</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(142).pdf" style="text-decoration:none;">Direct Prediction of 3D Body Poses from Motion Compensated Sequences</a></li>                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(143).pdf" style="text-decoration:none;">A Fast Local Descriptor for Dense Matching</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(144).pdf" style="text-decoration:none;">Boosting Binary Keypoint Descriptors</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(145).pdf" style="text-decoration:none;">Ecient Discriminative Projections for Compact Binary Descriptors</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(146).pdf" style="text-decoration:none;">Learning Image Descriptors with the Boosting-Trick</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(147).pdf" style="text-decoration:none;">Modular Components for Network Address Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(147).pdf" style="text-decoration:none;">Learning Image Descriptors with Boosting</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(148).pdf" style="text-decoration:none;">An Extension-Oriented Compiler</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(148).pdf" style="text-decoration:none;">Thick Boundaries in Binary Space and Their Influence on Nearest-Neighbor Search</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(149).pdf" style="text-decoration:none;">Optimizing Communication Bottlenecks in Multiprocessor Operating System Kernels</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(149).pdf" style="text-decoration:none;">Fusing Online and Offline Information for Stable 3D Tracking in Real-Time</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(150).pdf" style="text-decoration:none;">Scaling a file system to many cores
-using an operation log</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(150).pdf" style="text-decoration:none;">Combining Edge and Texture Information for Real-Time Accurate 3D Camera Tracking</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(151).pdf" style="text-decoration:none;">A Software Approach to Unifying Multicore Caches </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(151).pdf" style="text-decoration:none;">Stable Real-Time 3D Tracking using Online and Offline Information</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(152).pdf" style="text-decoration:none;">Self-Certifying File System Implementation for Windows </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(153).pdf" style="text-decoration:none;">Flexible Key Management with SFS Agents</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(154).pdf" style="text-decoration:none;">Access Control Lists for the Self-Certifying
-Filesystem</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(152).pdf" style="text-decoration:none;">Approximated Relative Pose Solvers for Efficient Camera Motion Estimation </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(153).pdf" style="text-decoration:none;">An Efficient Minimal Solution for Multi-Camera Motion</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(154).pdf" style="text-decoration:none;">TILDE: A Temporally Invariant Learned DEtector</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(155).pdf" style="text-decoration:none;">Separating key management from file system security</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(155).pdf" style="text-decoration:none;">Fine Hand Segmentation using Convolutional Neural Networks</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(156).pdf" style="text-decoration:none;">Concurrency Control for Multi-Processor Event-Driven Systems</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(157).pdf" style="text-decoration:none;">Fast and secure distributed read-only file system</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(158).pdf" style="text-decoration:none;">Shenango: Achieving High CPU Efficiency for
-Latency-sensitive Datacenter Workloads</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(156).pdf" style="text-decoration:none;">Microscopy Cell Counting with Fully Convolutional Regression Networks</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(157).pdf" style="text-decoration:none;">Learning Descriptors for Object Recognition and 3D Pose Estimation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(158).pdf" style="text-decoration:none;">Locality Sensitive Deep Learning for Detection and Classification of Nuclei in Routine Colon Cancer Histology Images</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(159).pdf" style="text-decoration:none;">View-Centric Performance Optimization for
-Database-Backed Web Applications </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(159).pdf" style="text-decoration:none;">Learning to Assign Orientations to Feature Points </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(160).pdf" style="text-decoration:none;">Sieve: Cryptographically Enforced Access Control for User Data in Untrusted Clouds</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(160).pdf" style="text-decoration:none;">LIFT: Learned Invariant Feature Transform</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(161).pdf" style="text-decoration:none;">Storing and Managing Data in a Distributed Hash Table</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cell-Detection-Segmentation-Papers/blob/master/c(161).pdf" style="text-decoration:none;">MDNet: A Semantically and Visually Interpretable Medical Image Diagnosis Network</a></li>
  
    </ul>
